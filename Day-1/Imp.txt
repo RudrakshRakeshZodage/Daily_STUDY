@@ -8,3 +8,14 @@ Question :-- Maximum and minimum of an array using minimum number of comparisons
 3. Dividing array in two parts - O(n) Time and O(log n) Space
 
 4. Comparing in pairs - O(n) Time and O(1) Space
+
+
+
+# 1. Add all modified files to the staging area
+git add .
+
+# 2. Commit the changes with a message
+git commit -m "Update code changes"
+
+# 3. Push the changes to GitHub
+git push
