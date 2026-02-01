@@ -1,0 +1,10 @@
+Question :-- Maximum and minimum of an array using minimum number of comparisons
+
+
+1. By Sorting the array - O(n log n) Time and O(1) Space
+
+2. Iterating the array - O(n) Time and O(1) Space
+
+3. Dividing array in two parts - O(n) Time and O(log n) Space
+
+4. Comparing in pairs - O(n) Time and O(1) Space
