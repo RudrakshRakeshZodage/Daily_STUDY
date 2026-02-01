@@ -9,5 +9,5 @@ if __name__ == "__main__":
     result = findMinMax(arr)
     print("%d %d" % (result[0], result[1]))
     
-
+    #this is the 1st Question of DSA with python
     #By Sorting the array - O(n log n) Time and O(1) Space
