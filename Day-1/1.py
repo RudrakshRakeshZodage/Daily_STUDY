@@ -8,3 +8,6 @@ if __name__ == "__main__":
     arr = [3, 5, 4, 1, 9]
     result = findMinMax(arr)
     print("%d %d" % (result[0], result[1]))
+    
+
+    #By Sorting the array - O(n log n) Time and O(1) Space
